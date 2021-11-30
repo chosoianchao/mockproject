@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tr_i_nghi_m_awesome_chat">Trải nghiệm Awesome chat</string>
+    <string name="ng_nh_p">Đăng nhập</string>
+    <string name="email">EMAIL</string>
+    <string name="yourname_gmail_com">yourname@gmail.com</string>
+    <string name="m_t_kh_u">MẬT KHẨU</string>
+    <string name="text_password_hint">************</string>
+    <string name="qu_n_m_t_kh_u">Quên mật khẩu?</string>
+    <string name="ng_k">Đăng kí</string>
+    <string name="b_n_ch_a_c_t_i_kho_n">Bạn chưa có tài khoản?  </string>
+    <string name="ng_k_ngay">Đăng kí ngay</string>
+    <string name="dang_ki">ĐĂNG KÝ</string>
+    <string name="ng_nh_p_ngay"> Đăng nhập ngay</string>
+    <string name="c_t_i_kho_n">Đã có tài khoản? </string>
+    <string name="h_v_t_n">HỌ VÀ TÊN</string>
+    <string name="quen_mat_khau">Quên mật khẩu</string>
+    <string name="x_c_nh_n">XÁC Nhận</string>
+    <string name="new_pass">MẬT KHẨU MỚI</string>
+    <string name="name">Họ và tên</string>
+    <string name="and">và </string>
+    <string name="i_u_kho_n">điều khoản</string>
+    <string name="ch_nh_s_ch">chính sách </string>
+    <string name="t_i_ng_v_i_c_c">Tôi đồng ý với các </string>
+    <string name="friend">Bạn bè</string>
+    <string name="message">Tin nhắn</string>
+    <string name="personal">Trang cá nhân</string>
+</resources>
